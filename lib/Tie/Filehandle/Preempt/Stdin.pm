@@ -1,5 +1,6 @@
 package Tie::Filehandle::Preempt::Stdin;
-$VERSION = "0.01";
+$VERSION = "0.02";
+require 5.008;
 use strict;
 use Carp;
 
@@ -122,7 +123,7 @@ it and/or modify it under the same terms as Perl itself.
 The full text of the license can be found in the
 LICENSE file included with this module.
 
-Last revision:  Apr 17 2005.
+Last revision:  October 27 2007.
 
 =head1 SEE ALSO
 
