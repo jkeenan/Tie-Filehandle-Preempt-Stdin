@@ -1,10 +1,9 @@
-MANIFEST
-LICENSE
-README
-Todo
 Changes
 lib/Tie/Filehandle/Preempt/Stdin.pm
-t/01_load.t
+LICENSE
 Makefile.PL
-
-META.yml                                 Module meta-data (added by MakeMaker)
+MANIFEST			This list of files
+MANIFEST.SKIP
+META.yml
+README
+t/01_load.t
